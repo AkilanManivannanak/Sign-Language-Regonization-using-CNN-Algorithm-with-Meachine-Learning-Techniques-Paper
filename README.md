@@ -28,4 +28,4 @@ Dual Output: Translates recognized gestures into both Text and Audio formats to 
 Affiliation: Panimalar Engineering College, Chennai, India.
 
 📂 Repository Structure
-Sign Language Recognition...docx: Full research paper including methodology, literature review, and references
+[Sign Language Recognition.docx](https://github.com/AkilanManivannanak/Sign-Language-Regonization-using-CNN-Algorithm-with-Meachine-Learning-Techniques-Paper/blob/main/Sign%20Language%20Regonization%20using%20CNN%20Algorithm%20with%20Meachine%20Learning%20Techniques.docx): Full research paper including methodology, literature review, and references
